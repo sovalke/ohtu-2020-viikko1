@@ -1,0 +1,8 @@
+#Ignoorataan .tmp-tiedostot
+*.tmp
+
+#Ignoorataan build-kansiot
+build/
+
+#Ignoorataan .gradle-kansio
+.gradle/
