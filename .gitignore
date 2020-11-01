@@ -6,3 +6,6 @@ build/
 
 #Ignoorataan .gradle-kansio
 .gradle/
+
+#Ignoorataan .gitattributes
+.gitattributes
