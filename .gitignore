@@ -9,3 +9,4 @@ build/
 
 #Ignoorataan .gitattributes
 .gitattributes
+/.nb-gradle/
